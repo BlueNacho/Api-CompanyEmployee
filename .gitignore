@@ -1,0 +1,38 @@
+# node_modules
+node_modules/
+
+# Archivos temporales
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Carpeta generada por npm
+package-lock.json
+
+# Carpeta generada por yarn
+yarn.lock
+
+# Carpeta generada por create-react-app
+/build/
+
+# Carpeta generada por Vue CLI
+/dist/
+
+# Carpeta generada por Next.js
+/.next/
+
+# Carpeta generada por Gatsby
+/public/
+
+# Carpeta generada por Jest
+/coverage/
+
+# Carpeta generada por TypeScript
+/tsconfig.tsbuildinfo
+
+# Archivo generado por Visual Studio Code
+.vscode/
+
+# Carpeta generada por Webpack
+/dist/
